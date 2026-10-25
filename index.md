@@ -22,3 +22,7 @@
 | 2026-10-24 08:35 | E2-0007 | 自愈补录 | E2/E2_20261024_load_judgers.md | ca10b51deb1da416283cf0b8124ef3de | - |
 | 2026-10-24 08:35 | E3-0002 | 自愈补录 | E3/E3_20261024_unlock_and_model.md | 48483b5e4a668b3b840c31e404d9da25 | - |
 | 2026-10-24 08:35 | E4-0005 | 自愈补录 | E4/E4_20261024_gate_enable.md | e15677d3c523569e16277fd701420e0d | - |
+| 2026-10-25 13:55 | E1-0004 | 自愈补录 | E1/E1_20261025_jifa_zonggang.md | 6b8ede1c6d1082f59d099c80467ff16e | - |
+| 2026-10-25 13:55 | E2-0008 | 自愈补录 | E2/E2_20261025_jia_zai_qie_enforce.md | 5ea064cba38a72c421859fce1e9ec654 | - |
+| 2026-10-25 13:55 | E3-0003 | 自愈补录 | E3/E3_20261025_jiesuo_qingxu_biaozhu.md | 02c3750f849c17b5bb18dff2a3d6443a | - |
+| 2026-10-25 13:55 | E4-0006 | 自愈补录 | E4/E4_20261025_zhamen_zhiwei_qingxu_bianjie.md | 3ebc10a517d9414f597e27a1d51cc2ce | - |
