@@ -11,3 +11,4 @@
 | 2026-10-25 13:55:05 | E3_20261025_jiesuo_qingxu_biaozhu.md | E3/E3_20261025_jiesuo_qingxu_biaozhu.md | done |
 | 2026-10-25 13:55:05 | E4_20261025_zhamen_zhiwei_qingxu_bianjie.md | E4/E4_20261025_zhamen_zhiwei_qingxu_bianjie.md | done |
 | 2026-10-25 14:05:07 | E4_20261025_gongqing_bianjie_buchong.md | E4/E4_20261025_gongqing_bianjie_buchong.md | done |
+| 2026-10-29 21:30:06 | E2_20261025_zhuan_yunduan_tongbu.md | E2/E2_20261025_zhuan_yunduan_tongbu.md | done |
